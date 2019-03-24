@@ -1,4 +1,5 @@
 let a: Int = 5
 let b: Int = 10
-let c = b + c 
+let c = a + b
+ 
 
